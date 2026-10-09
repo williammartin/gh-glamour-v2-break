@@ -26,10 +26,3 @@ It also raises this module's `go` directive to `1.25.8`.
 ```sh
 go get github.com/charmbracelet/x/cellbuf@v0.0.15
 ```
-
-## Try it
-
-```sh
-gh extension install williammartin/gh-glamour-v2-break
-gh glamour-v2-break
-```
